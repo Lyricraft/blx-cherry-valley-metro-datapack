@@ -1,0 +1,19 @@
+{
+  "name": "cherry-vally-metro",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node src/build.js"
+  },
+  "keywords": [],
+  "author": "Lyricraft",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "archiver": "^8.0.0",
+    "yaml": "^2.9.0"
+  },
+  "devDependencies": {
+    "@types/archiver": "^8.0.0"
+  }
+}

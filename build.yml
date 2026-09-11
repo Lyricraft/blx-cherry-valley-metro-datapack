@@ -1,0 +1,6 @@
+name: cherry_valley_metro
+version: 1.0.0
+outputName: ${name}-mc26.2-${version}
+outputFormat:
+  - folder
+  - zip

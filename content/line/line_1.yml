@@ -1,0 +1,24 @@
+name: 1号线
+name_en: Line 1
+color: "#b22222"
+stations:
+  - id: hfs
+    name: 彉金中心
+    name_en: HFS
+  - id: south_valley_park
+    name: 南山沟纪念园
+    name_en: South Valley Park
+  - reference: bilin_pavilion
+    door_side:
+      up: right
+      down: left
+  - id: north_beach
+    name: 北海滩
+    name_en: North Beach
+    open: false
+  - reference: railway_station
+    open: false
+  - id: dongmen
+    name: 东门社区
+    name_en: Dongmen
+    open: false

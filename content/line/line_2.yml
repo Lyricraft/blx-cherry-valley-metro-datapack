@@ -1,0 +1,23 @@
+name: 2号线
+name_en: Line 2
+color: "#00bfff"
+stations:
+  - id: sniffer_island
+    name: 奇兽岛
+    name_en: Sniffer Island
+    open: false
+  - reference: bilin_pavilion
+    door_side:
+      up: left
+      down: right
+  - id: cherry_forest
+    name: 樱花林
+    name_en: Cherry Forest
+  - reference: cherry_valley_square
+  - id: luojia_mount
+    name: 落枷山
+    name_en: Luojia Mount
+  - id: honghe_bay
+    name: 红河湾
+    name_en: Honghe Bay
+    open: false

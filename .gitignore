@@ -1,0 +1,15 @@
+# 依赖
+node_modules/
+
+# 构建产物（可由 npm run build 重新生成）
+dist/
+data_generated/
+
+# IDE
+.idea/
+.vscode/
+
+# 系统与日志
+.DS_Store
+Thumbs.db
+*.log
