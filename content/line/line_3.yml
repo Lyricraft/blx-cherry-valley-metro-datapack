@@ -19,4 +19,3 @@ stations:
   - id: acacia_forest_south
     name: 合欢林南
     name_en: Acacia Forest South
-    open: false

@@ -20,4 +20,3 @@ stations:
   - id: honghe_bay
     name: 红河湾
     name_en: Honghe Bay
-    open: false
