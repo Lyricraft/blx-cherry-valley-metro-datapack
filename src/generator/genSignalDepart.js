@@ -17,7 +17,7 @@ export function genSignalDepartOneStopDirection(stop, line, direction, config) {
         // 扣停
         return `execute on vehicle run tag @s add cvm_force_stop
 title @s title {text:"扣停车辆", color:"red"}
-title @s subtitle {text:"线路异常，请下车并返回车站。", color:"yellow"}`;
+title @s subtitle {text:"线路异常，请下车并返回车站", color:"yellow"}`;
     }
 
     const nextIsLast = !line.nextOpen(nextStop, direction);
